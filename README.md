@@ -6,7 +6,7 @@
 
 There are several ways of editing your application.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via VScode will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -55,3 +55,4 @@ This project is built with:
 - Tailwind CSS
 
 ## How can I deploy this project?
+ Can be done using Vercel
